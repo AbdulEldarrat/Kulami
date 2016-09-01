@@ -8,8 +8,6 @@ Jorden Whitbey
 This program allows the users to play the game Kulami, which is distributed
 by FoxMind.
 
-Date of last edit: Dec 9th, 2013
-
 We hereby certify that the program below represents our work 
 and the design, content, and logic was completed without outside assistance.
 */
