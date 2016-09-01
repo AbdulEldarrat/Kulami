@@ -1,8 +1,4 @@
-/*
-This class is the game board, which contains the tiles.
-Date of last edit: Dec 9th, 2013
 
-*/
 
 #include "StdAfx.h"
 #include "Board.h"
