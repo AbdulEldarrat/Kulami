@@ -1,7 +1,6 @@
 /*
 This class represents the individual tiles that are assembled
 to form the board.
-Date of last edit: Dec 9th, 2013
 */
 #include "StdAfx.h"
 #include "Tile.h"
